@@ -18,8 +18,9 @@ setInterval(() => {
 ```
 
 ### Delete Tweets
+It works on Tweets tab and Tweets and answers tab
 
-1. Go to: https://twitter.com/{username}
+1. Go to: https://twitter.com/{username} or https://twitter.com/{username}/with_replies
 2. Open the console and run the following JavaScript code:
 ```javascript
 var toDelete = window.prompt("Enter your delete option text exactly as it's writen: ");

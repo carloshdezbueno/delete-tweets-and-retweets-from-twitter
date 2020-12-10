@@ -1,4 +1,4 @@
-# Twitter Retweet/Tweets deleter
+# Delete Tweets and Retweets from twitter
 This is an easy way to remove all your Tweets and Retweets from your personal Twitter account
 
 ## Instructions of use:

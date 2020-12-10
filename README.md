@@ -3,8 +3,8 @@ This is an easy way to remove all your Tweets and Retweets from your personal Tw
 
 ## Instructions of use:
 ### Remove Retweets
-For using this feature you have to open your personal twitter account, go to your profile and open the tweets tab and copy the following code on the browser console:
-
+1. Go to: https://twitter.com/{username}
+2. Open the console and run the following JavaScript code:
 ```javascript
 setInterval(() => {
   for (const d of document.querySelectorAll('div[data-testid="unretweet"]')) {

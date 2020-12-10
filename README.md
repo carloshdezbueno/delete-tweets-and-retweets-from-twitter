@@ -1,8 +1,8 @@
-# TwitterRetweetTweets
+# Twitter Retweet/Tweets deleter
 This is an easy way to remove all your Tweets and Retweets from your personal Twitter account
 
 ## Instructions of use:
-### Remove Retweets
+### Delete Retweets
 
 1. Go to: https://twitter.com/{username}
 2. Open the console and run the following JavaScript code:
@@ -17,7 +17,7 @@ setInterval(() => {
 }, 1000)
 ```
 
-### Remove Retweets
+### Delete Retweets
 
 1. Go to: https://twitter.com/{username}
 2. Open the console and run the following JavaScript code:

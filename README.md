@@ -17,7 +17,7 @@ setInterval(() => {
 }, 1000)
 ```
 
-### Delete Retweets
+### Delete Tweets
 
 1. Go to: https://twitter.com/{username}
 2. Open the console and run the following JavaScript code:
